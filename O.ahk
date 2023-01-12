@@ -1,5 +1,6 @@
-vk45::				; клавиша Щ/O
+vk45::				; ГЄГ«Г ГўГЁГёГ  Г™/O
 SendInput {Click D}{vk45 Up}
+SendInput {Click A}{vk45 Up}
 KeyWait, vk45, D
 Click up
 Return
